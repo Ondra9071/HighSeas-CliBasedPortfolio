@@ -8,6 +8,8 @@ Welcome to Terminal Portfolio, a CLI-styled personal portfolio built with **Reac
 - Fully Responsive: Works seamlessly on all devices, from desktops to mobile screens.
 - Expandable & Modular: Easily add new commands or themes.
 
+**Demo:** [here](https://ondrejpacovsky.cz/demo/highseas/CliBasedPortfolio/index.html)
+
 ## 📸 Preview
 ![Preview](https://ondrejpacovsky.cz/demo/highseas/CliBasedPortfolio/preview.jpg)
 
